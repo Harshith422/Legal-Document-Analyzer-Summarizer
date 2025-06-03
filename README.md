@@ -1,5 +1,8 @@
 # 🧾 Legal Document Analyzer & Summarizer
 
+> 🚧 **Note:** This project is currently under update.  
+> 🔔 If you need urgent access or support, feel free to message me on [LinkedIn](https://www.linkedin.com/in/harshith-potnuri-144har/).
+
 **An NLP-powered system to extract, classify, assess risk, and summarize clauses from legal documents using deep learning.**
 
 ---
